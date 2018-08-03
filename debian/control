@@ -1,0 +1,12 @@
+Source: libmail-spamassassin-plugin-memcdaddrlist
+Section: perl
+Priority: optional
+Maintainer: Maximilian Falkenstein <maximilian.falkenstein@sos.ethz.ch>
+Build-Depends: debhelper (>= 9), spamassassin, libcache-memcached-perl
+Build-Depends-Indep: perl
+Homepage: https://metacpan.org/release/Mail-SpamAssassin-Plugin-RedisAWL
+
+Package: libmail-spamassassin-plugin-memcdaddrlist
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: Memcached support for spamassassin AWL/TxRep

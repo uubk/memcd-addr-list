@@ -1,0 +1,5 @@
+libmail-spamassassin-plugin-memcdaddrlist (1.000) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Maximilian Falkenstein <maximilian.falkenstein@sos.ethz.ch>  Sat, 28 Jul 2017 13:43:59 +0200
