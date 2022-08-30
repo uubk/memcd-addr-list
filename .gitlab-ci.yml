@@ -17,7 +17,7 @@ build:
     - apt-get --assume-yes -qq install build-essential dh-dist-zilla spamassassin libnetaddr-ip-perl libcache-memcached-perl
   script:
     - dpkg-buildpackage -uc -us
-    - mv ../libmem*.deb .
+    - mv ../libmail*.deb .
   artifacts:
     paths:
     - '*.deb'
