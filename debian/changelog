@@ -1,3 +1,9 @@
+libmail-spamassassin-plugin-memcdaddrlist (1.001) unstable; urgency=low
+
+  * Re-release 1.000 for bookworm
+
+ -- Maximilian Falkenstein <maximilian.falkenstein@sos.ethz.ch>  Sat, 05 Aug 2023 15:59:02 +0200
+
 libmail-spamassassin-plugin-memcdaddrlist (1.000) unstable; urgency=low
 
   * Initial Release.
